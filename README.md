@@ -1,5 +1,5 @@
 # Java-Assignments
-JAVA programming assignments for the course INFO 2101 - Computer Prog for Info Tech I (Fall Semester 2018)
+_**JAVA programming assignments for the course INFO 2101 - Computer Prog for Info Tech I (Fall Semester 2018)**_
 
 Problem #1: A JAVA program that prompts the user to enter the number of students, the
 students’ names, and their scores, and prints student names in decreasing order of
